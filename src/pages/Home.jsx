@@ -1,5 +1,4 @@
 import React from "react";
-import MyIconImg from "../shared/MyIconImg";
 import MyButton from "../shared/MyButton";
 import Card from "../components/Card";
 
